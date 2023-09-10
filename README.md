@@ -1,18 +1,22 @@
-# <Tar's prework study guide webpage>
 
-## this prework web page is the first webpage before my training in my coding course.
+# TAR's Prework Study Guide Webpage
 
+## Description
 
-## N/A
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
+## Installation
 
-## this prework webpage is a good way to not only get fimiler with the CLR but main other tools you will use in the course such as HTML, CSS, JavaScript, Git and Dev tools 
+N/A
 
+## Usage
 
-## N/A
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
+## Credits
 
+N/A
 
-## MIT
+## License
 
 Please refer to the LICENSE in the repo.
